@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>Test App</Description>
   </PropertyGroup>
 
   <ItemGroup>
