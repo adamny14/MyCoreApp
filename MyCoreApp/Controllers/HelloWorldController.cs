@@ -12,6 +12,7 @@ namespace MyCoreApp.Controllers
        public IActionResult Index()
         {
             return View();
+            //test comment
         }
 
         //GET HelloWorld/Welcome
